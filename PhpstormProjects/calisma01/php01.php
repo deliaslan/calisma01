@@ -47,7 +47,13 @@ echo "<br>";
 echo $no = 238;
 echo "<br />";
 echo $okul = "YEAL";
-
+echo "<hr>";
+echo "<br>";
+$ad="Çiğdem";
+echo "Adım ve Soyadım: "; echo $ad." "; echo $soyad;
+echo "<br>";
+echo "<br>";
+echo "Adım ve Soyadım: ".$ad." ".$soyad;
 ?>
 </body>
 </html>
