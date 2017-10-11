@@ -36,5 +36,7 @@ echo "Mod Alma İşlemi: ";
 $modAlma = $numara1%$numara2;
 echo $modAlma;
 echo "<br>";
+echo "<hr>";
+echo "Toplama İşlemi"."<br>";
 echo "İşlem adımlarını göstermek için kullanılan yöntem=> $numara1+$numara2 = $toplam"; //böyle bir kullanımda var tüm elemanları yazdırmak için
 ?>

@@ -5,39 +5,39 @@
       <entry action="$Undo" count="70" />
       <entry action="CaptureMemorySnapShot" count="1" />
       <entry action="CheckForUpdate" count="1" />
-      <entry action="CheckinProject" count="5" />
+      <entry action="CheckinProject" count="6" />
       <entry action="CodeCompletion" count="5" />
       <entry action="Cvs.BrowseCVSRepository" count="1" />
-      <entry action="EditorBackSpace" count="620" />
-      <entry action="EditorChooseLookupItem" count="28" />
-      <entry action="EditorChooseLookupItemReplace" count="85" />
+      <entry action="EditorBackSpace" count="634" />
+      <entry action="EditorChooseLookupItem" count="30" />
+      <entry action="EditorChooseLookupItemReplace" count="95" />
       <entry action="EditorCopy" count="26" />
       <entry action="EditorCut" count="12" />
       <entry action="EditorDelete" count="37" />
-      <entry action="EditorDown" count="124" />
+      <entry action="EditorDown" count="125" />
       <entry action="EditorDuplicate" count="20" />
-      <entry action="EditorEnter" count="279" />
+      <entry action="EditorEnter" count="291" />
       <entry action="EditorEscape" count="2" />
-      <entry action="EditorLeft" count="276" />
+      <entry action="EditorLeft" count="288" />
       <entry action="EditorLeftWithSelection" count="7" />
-      <entry action="EditorLineEnd" count="20" />
-      <entry action="EditorLineStart" count="5" />
+      <entry action="EditorLineEnd" count="22" />
+      <entry action="EditorLineStart" count="6" />
       <entry action="EditorPaste" count="53" />
-      <entry action="EditorRight" count="180" />
+      <entry action="EditorRight" count="193" />
       <entry action="EditorRightWithSelection" count="17" />
       <entry action="EditorTab" count="13" />
-      <entry action="EditorUp" count="94" />
+      <entry action="EditorUp" count="97" />
       <entry action="ExpandLiveTemplateByTab" count="143" />
       <entry action="Github.Create.Gist" count="1" />
       <entry action="Github.Open.In.Browser" count="1" />
       <entry action="InvalidateCaches" count="1" />
       <entry action="NextTemplateVariable" count="1" />
-      <entry action="PhpNewFile" count="4" />
+      <entry action="PhpNewFile" count="5" />
       <entry action="PhpValidateWebServer" count="1" />
       <entry action="ReformatCode" count="2" />
       <entry action="RevealIn" count="1" />
-      <entry action="Run" count="18" />
-      <entry action="SaveAll" count="215" />
+      <entry action="Run" count="20" />
+      <entry action="SaveAll" count="223" />
       <entry action="ShowSettings" count="1" />
       <entry action="Vcs.UpdateProject" count="2" />
       <entry action="editRunConfigurations" count="1" />
