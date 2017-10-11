@@ -14,9 +14,22 @@
 % Mod Alma(Kalan Gösterme)
 */
 
-$numara1=50;
+$numara1=44;
 $numara2=13;
 
 $toplam = $numara1+$numara2;
 echo $toplam;
+echo "<br>";
+$cikar = $numara1 - $numara2;
+echo $cikar;
+echo "<br>";
+$bolme = $numara1/$numara2;
+echo $bolme;
+echo "<br>";
+$carpim = $numara1*$numara2;
+echo $carpim;
+echo "<br>";
+$modAlma = $numara1%$numara2;
+echo $modAlma;
+echo "<br>";
 ?>
