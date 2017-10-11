@@ -14,4 +14,6 @@ echo "<hr>";
 // $atama = $atama + 45; aşağıdaki ile aynı işleve sahiptir.
 $atama += 45;
 echo "\$atama değişkeninin yeni değeri: $atama";
+echo "<br>";
+echo "\$atama değişkeninin yeni değeri: ".$atama; //farklı şekilde gösterimi
 ?>
