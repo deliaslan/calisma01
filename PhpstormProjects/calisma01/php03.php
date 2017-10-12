@@ -15,5 +15,26 @@ echo "<hr>";
 $atama += 45;
 echo "\$atama değişkeninin yeni değeri: $atama";
 echo "<br>";
+echo "<hr>";
 echo "\$atama değişkeninin yeni değeri: ".$atama; //farklı şekilde gösterimi
+echo "<br>";
+echo "<hr>";
+$atama -= 35; //bu gösterimin çarpma, bölme ve mod alma gibi özellikleri vardır.
+echo "\$atama değişkeninin yeni değeri: ".$atama;
+echo "<br>";
+echo "<hr>";
+echo "Değeri tek tek artırmak için ++ ifadesi kullanılır. Ama ifade burada artmaz. \$atama++ => ".$atama++;
+echo "<br>";
+echo "<hr>";
+echo "\$atama değeri şimdi arttı: ".$atama;
+echo "<br>";
+echo "<hr>";
+echo "Değeri tek tek azaltmak için -- ifadesi kullanılır. Ama ifade burada azalmaz. \$atama-- => ".$atama--;
+echo "<br>";
+echo "<hr>";
+echo "\$atama değeri şimdi azaldı: ".$atama;
+/*
+ * Atama operatörünün sonuna konulan değer ilk atamada değil sonrasında değiştirir değeri.
+ * Öncesine konulduğu zaman ise anında değeri değiştirir.
+*/
 ?>
