@@ -6,12 +6,12 @@
       <entry action="$Undo" count="82" />
       <entry action="CaptureMemorySnapShot" count="1" />
       <entry action="CheckForUpdate" count="1" />
-      <entry action="CheckinProject" count="13" />
+      <entry action="CheckinProject" count="14" />
       <entry action="CodeCompletion" count="5" />
       <entry action="CollectSettings" count="1" />
       <entry action="CreateLauncherScript" count="1" />
       <entry action="Cvs.BrowseCVSRepository" count="1" />
-      <entry action="EditorBackSpace" count="869" />
+      <entry action="EditorBackSpace" count="889" />
       <entry action="EditorChooseLookupItem" count="87" />
       <entry action="EditorChooseLookupItemReplace" count="122" />
       <entry action="EditorCopy" count="34" />
@@ -19,9 +19,9 @@
       <entry action="EditorDelete" count="37" />
       <entry action="EditorDown" count="165" />
       <entry action="EditorDuplicate" count="24" />
-      <entry action="EditorEnter" count="399" />
+      <entry action="EditorEnter" count="400" />
       <entry action="EditorEscape" count="2" />
-      <entry action="EditorLeft" count="454" />
+      <entry action="EditorLeft" count="468" />
       <entry action="EditorLeftWithSelection" count="7" />
       <entry action="EditorLineEnd" count="28" />
       <entry action="EditorLineStart" count="6" />
@@ -29,7 +29,7 @@
       <entry action="EditorRight" count="329" />
       <entry action="EditorRightWithSelection" count="17" />
       <entry action="EditorTab" count="14" />
-      <entry action="EditorUp" count="138" />
+      <entry action="EditorUp" count="139" />
       <entry action="ExpandLiveTemplateByTab" count="145" />
       <entry action="Generate" count="1" />
       <entry action="Github.Create.Gist" count="1" />
