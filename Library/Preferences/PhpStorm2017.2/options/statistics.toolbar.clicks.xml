@@ -1,8 +1,8 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
-      <entry action="CheckinProject@MainToolbar" count="11" />
-      <entry action="Run@MainToolbar" count="25" />
+      <entry action="CheckinProject@MainToolbar" count="12" />
+      <entry action="Run@MainToolbar" count="56" />
       <entry action="ShowSettings@MainToolbar" count="1" />
       <entry action="Vcs.UpdateProject@MainToolbar" count="2" />
       <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="16" />
