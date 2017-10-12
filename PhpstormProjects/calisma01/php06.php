@@ -63,6 +63,32 @@ echo "<hr>";
 echo implode(", ",$iller);
 echo "<br>";
 echo "<hr>";
+
+// explode fonksiyonu ile bir elemanı istenilen karakter ya da karakter grubundan itibaren ayırmaya yarar.
+
+$tarih = date('d.m.Y H:i:s');
+echo $tarih;
+echo "<br>";
+$tarihExplode = explode(" ",$tarih);
+
+echo "<pre>";
+print_r($tarihExplode);
+echo "</pre>";
+echo "<br>";
+echo "<hr>";
+
+
+// date_default_timezone_set('Europe/Istanbul') fonksiyonu ile zaman dilimini atadık sayfamıza.
+date_default_timezone_set('Europe/Istanbul');
+
+$bugun = date("F j, Y, g:i a");
+
+echo "Bugün: ".$bugun;
+echo "<br>";
+echo "<hr>";
+$saat = date("H:i:s");
+echo "Saat: ".$saat;
+
 ?>
 
 
