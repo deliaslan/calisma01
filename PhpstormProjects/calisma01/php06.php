@@ -29,4 +29,16 @@ rsort($dizi);
 echo "<pre>";
 print_r($dizi);
 echo "</pre>";
+
+$harfler = array("a","b","c","d","e","ç","ğ");
+sort($harfler); //Türkçe karakterler sıralamada sonuncu sıralarda olmaktadır.
+echo "<pre>";
+print_r($harfler);
+echo "</pre>";
+echo "<br>";
+echo "<hr>";
+rsort($harfler);
+echo "<pre>";
+print_r($harfler);
+echo "</pre>";
 ?>
