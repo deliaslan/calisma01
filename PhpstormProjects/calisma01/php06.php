@@ -41,4 +41,30 @@ rsort($harfler);
 echo "<pre>";
 print_r($harfler);
 echo "</pre>";
+echo "<br>";
+echo "<hr>";
+// in array() fonksiyonu bir değerin dizinin içinde olup olmadığını denetlememize yarar. var ise 1 değerini döndürür.
+
+$iller = array("adana","afyon","ankara","nigde","sakarya","istanbul");
+
+$ilSec = in_array("nigde",$iller);
+
+if($ilSec == 1){
+    echo "İstenilen il listede bulunmaktadır.";
+}
+else{
+    echo "İstenil il bulunamadı";
+}
+
+echo "<br>";
+echo "<hr>";
+// implode fonksiyonu ile dizideki elemanlar listelenirken aralarına istenilen karakter konulabilir.
+
+echo implode(", ",$iller);
+echo "<br>";
+echo "<hr>";
 ?>
+
+
+
+
