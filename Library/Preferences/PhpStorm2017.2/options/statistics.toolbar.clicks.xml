@@ -1,7 +1,7 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
-      <entry action="CheckinProject@MainToolbar" count="8" />
+      <entry action="CheckinProject@MainToolbar" count="9" />
       <entry action="Run@MainToolbar" count="23" />
       <entry action="ShowSettings@MainToolbar" count="1" />
       <entry action="Vcs.UpdateProject@MainToolbar" count="2" />
