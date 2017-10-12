@@ -5,7 +5,7 @@
       <entry action="$Undo" count="79" />
       <entry action="CaptureMemorySnapShot" count="1" />
       <entry action="CheckForUpdate" count="1" />
-      <entry action="CheckinProject" count="8" />
+      <entry action="CheckinProject" count="9" />
       <entry action="CodeCompletion" count="5" />
       <entry action="Cvs.BrowseCVSRepository" count="1" />
       <entry action="EditorBackSpace" count="700" />
