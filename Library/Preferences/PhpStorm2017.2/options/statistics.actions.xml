@@ -3,36 +3,36 @@
     <counts>
       <entry action="$Copy" count="1" />
       <entry action="$Delete" count="1" />
-      <entry action="$SelectAll" count="5" />
+      <entry action="$SelectAll" count="6" />
       <entry action="$Undo" count="156" />
       <entry action="CaptureMemorySnapShot" count="1" />
       <entry action="CheckForUpdate" count="2" />
-      <entry action="CheckinProject" count="28" />
+      <entry action="CheckinProject" count="29" />
       <entry action="CodeCompletion" count="6" />
       <entry action="CollectSettings" count="1" />
       <entry action="CreateLauncherScript" count="1" />
       <entry action="Cvs.BrowseCVSRepository" count="1" />
       <entry action="Debug" count="1" />
-      <entry action="EditorBackSpace" count="1801" />
-      <entry action="EditorChooseLookupItem" count="202" />
-      <entry action="EditorChooseLookupItemReplace" count="247" />
-      <entry action="EditorCopy" count="51" />
+      <entry action="EditorBackSpace" count="1831" />
+      <entry action="EditorChooseLookupItem" count="203" />
+      <entry action="EditorChooseLookupItemReplace" count="252" />
+      <entry action="EditorCopy" count="52" />
       <entry action="EditorCut" count="26" />
       <entry action="EditorDelete" count="124" />
-      <entry action="EditorDown" count="388" />
+      <entry action="EditorDown" count="389" />
       <entry action="EditorDuplicate" count="27" />
-      <entry action="EditorEnter" count="770" />
+      <entry action="EditorEnter" count="783" />
       <entry action="EditorEscape" count="2" />
-      <entry action="EditorLeft" count="826" />
+      <entry action="EditorLeft" count="827" />
       <entry action="EditorLeftWithSelection" count="8" />
       <entry action="EditorLineEnd" count="54" />
       <entry action="EditorLineStart" count="8" />
-      <entry action="EditorPaste" count="98" />
-      <entry action="EditorRight" count="825" />
+      <entry action="EditorPaste" count="100" />
+      <entry action="EditorRight" count="830" />
       <entry action="EditorRightWithSelection" count="44" />
       <entry action="EditorTab" count="18" />
-      <entry action="EditorUp" count="299" />
-      <entry action="ExpandLiveTemplateByTab" count="203" />
+      <entry action="EditorUp" count="300" />
+      <entry action="ExpandLiveTemplateByTab" count="204" />
       <entry action="Generate" count="1" />
       <entry action="Github.Create.Gist" count="1" />
       <entry action="Github.Open.In.Browser" count="1" />
@@ -40,14 +40,14 @@
       <entry action="HelpTopics" count="1" />
       <entry action="InvalidateCaches" count="2" />
       <entry action="NextTemplateVariable" count="1" />
-      <entry action="PhpNewFile" count="22" />
+      <entry action="PhpNewFile" count="23" />
       <entry action="PhpValidateWebServer" count="1" />
       <entry action="QuickImplementations" count="1" />
       <entry action="QuickJavaDoc" count="1" />
       <entry action="ReformatCode" count="3" />
       <entry action="RevealIn" count="1" />
-      <entry action="Run" count="157" />
-      <entry action="SaveAll" count="394" />
+      <entry action="Run" count="160" />
+      <entry action="SaveAll" count="395" />
       <entry action="ShowSettings" count="1" />
       <entry action="ToggleLineBreakpoint" count="1" />
       <entry action="Vcs.UpdateProject" count="2" />
