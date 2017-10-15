@@ -9,4 +9,14 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="switchh" value=" switch ($puan) {&#10;            case '':&#10;                echo &quot;&quot;;&#10;                break;&#10;            case '':&#10;                echo &quot;&quot;;&#10;                break;&#10;            case '':&#10;                echo &quot;&quot;;&#10;                break;&#10;            default:&#10;                echo &quot;&quot;;&#10;                break;&#10;            }" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="case" value="case '':&#10;echo &quot;&quot;;&#10;break;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
