@@ -17,14 +17,14 @@
     <body>
 <!--Post ve Get metodları -->
 <p>POST ile yapılan işlem</p>
-<?php
-// $_POST['input elemanının name kısmına yazılan ifade'];
-echo "POST edilen değer: ".$_POST['ad']." ".$_POST['soyad'];
-?>
-    <form action="php07a.php" method="post">
-        Adınız: <input type="text" name="ad" placeholder="Adınızı Giriniz">
-        <br>
-        Soyadınız: <input type="text" name="soyad" placeholder="Soyadınızı Giriniz">
+        <?php
+        // $_POST['input elemanının name kısmına yazılan ifade'];
+        echo "POST edilen değer: ".$_POST['ad']." ".$_POST['soyad'];
+        ?>
+        <form action="php07a.php" method="post">
+            Adınız: <input type="text" name="ad" placeholder="Adınızı Giriniz">
+            <br>
+            Soyadınız: <input type="text" name="soyad" placeholder="Soyadınızı Giriniz">
         <br>
         <input type="submit" name="" value="Gönder">
     </form>

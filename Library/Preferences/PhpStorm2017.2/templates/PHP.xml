@@ -1,10 +1,10 @@
 <templateSet group="PHP">
-  <template name="cizgi" value="echo &quot;&lt;hr&gt;&quot;;" toReformat="false" toShortenFQNames="true">
+  <template name="cizgi" value="echo &quot;&lt;hr&gt;&quot;;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="yorum" value="/*&#10;*/" toReformat="false" toShortenFQNames="true">
+  <template name="yorum" value="/*&#10;*/" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
