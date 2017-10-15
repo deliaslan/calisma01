@@ -7,7 +7,7 @@
       <entry action="$Undo" count="100" />
       <entry action="CaptureMemorySnapShot" count="1" />
       <entry action="CheckForUpdate" count="1" />
-      <entry action="CheckinProject" count="19" />
+      <entry action="CheckinProject" count="20" />
       <entry action="CodeCompletion" count="6" />
       <entry action="CollectSettings" count="1" />
       <entry action="CreateLauncherScript" count="1" />
