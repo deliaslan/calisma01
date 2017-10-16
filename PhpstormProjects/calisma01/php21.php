@@ -27,6 +27,9 @@ function adSoyad($ad = "ad", $soyad = "soyad")
 }
 
 echo adSoyad("adem");
+echo "<br>";
+echo "<hr>";
+echo adSoyad("adem", "deliaslan");
 ?>
 
 </body>
