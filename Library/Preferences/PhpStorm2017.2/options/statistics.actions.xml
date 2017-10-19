@@ -1,28 +1,28 @@
 <application>
   <component name="ActionsCollector">
     <counts>
-      <entry action="$Copy" count="3" />
+      <entry action="$Copy" count="5" />
       <entry action="$Delete" count="1" />
-      <entry action="$Paste" count="1" />
+      <entry action="$Paste" count="4" />
       <entry action="$SelectAll" count="9" />
       <entry action="$Undo" count="159" />
       <entry action="CaptureMemorySnapShot" count="1" />
       <entry action="CheckForUpdate" count="2" />
-      <entry action="CheckinProject" count="39" />
+      <entry action="CheckinProject" count="40" />
       <entry action="CodeCompletion" count="7" />
       <entry action="CollectSettings" count="1" />
       <entry action="CreateLauncherScript" count="1" />
       <entry action="Cvs.BrowseCVSRepository" count="1" />
       <entry action="Debug" count="1" />
-      <entry action="EditorBackSpace" count="2241" />
+      <entry action="EditorBackSpace" count="2244" />
       <entry action="EditorChooseLookupItem" count="243" />
-      <entry action="EditorChooseLookupItemReplace" count="299" />
+      <entry action="EditorChooseLookupItemReplace" count="300" />
       <entry action="EditorCopy" count="62" />
       <entry action="EditorCut" count="28" />
       <entry action="EditorDelete" count="190" />
-      <entry action="EditorDown" count="460" />
+      <entry action="EditorDown" count="467" />
       <entry action="EditorDuplicate" count="27" />
-      <entry action="EditorEnter" count="902" />
+      <entry action="EditorEnter" count="903" />
       <entry action="EditorEscape" count="2" />
       <entry action="EditorLeft" count="882" />
       <entry action="EditorLeftWithSelection" count="33" />
@@ -44,14 +44,14 @@
       <entry action="ManageRecentProjects" count="1" />
       <entry action="NextTemplateVariable" count="1" />
       <entry action="OpenFile" count="2" />
-      <entry action="PhpNewFile" count="33" />
+      <entry action="PhpNewFile" count="34" />
       <entry action="PhpValidateWebServer" count="1" />
       <entry action="QuickImplementations" count="1" />
       <entry action="QuickJavaDoc" count="1" />
       <entry action="ReformatCode" count="3" />
       <entry action="RevealIn" count="2" />
       <entry action="Run" count="199" />
-      <entry action="RunClass" count="12" />
+      <entry action="RunClass" count="14" />
       <entry action="SaveAll" count="419" />
       <entry action="ShowSettings" count="1" />
       <entry action="Synchronize" count="1" />
