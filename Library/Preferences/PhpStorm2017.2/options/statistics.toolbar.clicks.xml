@@ -1,10 +1,10 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
-      <entry action="CheckinProject@MainToolbar" count="39" />
+      <entry action="CheckinProject@MainToolbar" count="40" />
       <entry action="Debug@MainToolbar" count="1" />
       <entry action="OpenFile@MainToolbar" count="2" />
-      <entry action="Run@MainToolbar" count="199" />
+      <entry action="Run@MainToolbar" count="200" />
       <entry action="ShowSettings@MainToolbar" count="1" />
       <entry action="Synchronize@MainToolbar" count="1" />
       <entry action="Vcs.UpdateProject@MainToolbar" count="2" />
