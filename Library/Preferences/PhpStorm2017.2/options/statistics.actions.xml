@@ -8,13 +8,13 @@
       <entry action="$Undo" count="159" />
       <entry action="CaptureMemorySnapShot" count="1" />
       <entry action="CheckForUpdate" count="2" />
-      <entry action="CheckinProject" count="38" />
+      <entry action="CheckinProject" count="39" />
       <entry action="CodeCompletion" count="7" />
       <entry action="CollectSettings" count="1" />
       <entry action="CreateLauncherScript" count="1" />
       <entry action="Cvs.BrowseCVSRepository" count="1" />
       <entry action="Debug" count="1" />
-      <entry action="EditorBackSpace" count="2237" />
+      <entry action="EditorBackSpace" count="2241" />
       <entry action="EditorChooseLookupItem" count="243" />
       <entry action="EditorChooseLookupItemReplace" count="299" />
       <entry action="EditorCopy" count="62" />
