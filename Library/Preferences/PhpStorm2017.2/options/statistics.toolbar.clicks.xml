@@ -1,16 +1,16 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
-      <entry action="CheckinProject@MainToolbar" count="36" />
+      <entry action="CheckinProject@MainToolbar" count="37" />
       <entry action="Debug@MainToolbar" count="1" />
       <entry action="OpenFile@MainToolbar" count="2" />
-      <entry action="Run@MainToolbar" count="198" />
+      <entry action="Run@MainToolbar" count="199" />
       <entry action="ShowSettings@MainToolbar" count="1" />
       <entry action="Synchronize@MainToolbar" count="1" />
       <entry action="Vcs.UpdateProject@MainToolbar" count="2" />
       <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="1" />
       <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="22" />
-      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="21" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="22" />
     </counts>
   </component>
 </application>

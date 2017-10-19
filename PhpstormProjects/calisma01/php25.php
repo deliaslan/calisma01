@@ -25,6 +25,10 @@ $_SESSION['ad'] = "Adem";
 /*
  * Bu sayfa çalıştırılmadan php25a sayfasındaki session bilgisi oluşamaz.
 */
+
+
+$_SESSION['adsoyad'] = "Adem Deliaslan";
+
 ?>
 
 </body>
